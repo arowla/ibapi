@@ -1,4 +1,4 @@
-module github.com/hadrianl/ibapi
+module github.com/arowla/ibapi
 
 go 1.14
 
